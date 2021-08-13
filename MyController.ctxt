@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MyController
+comment1.params=event
+comment1.target=void\ actualizar(javafx.event.ActionEvent)
+comment10.params=p
+comment10.target=void\ eliminarBD(Tripulante)
+comment11.params=
+comment11.target=void\ conectarBD()
+comment2.params=event
+comment2.target=void\ buscar(javafx.event.ActionEvent)
+comment3.params=
+comment3.target=void\ cargar()
+comment4.params=event
+comment4.target=void\ eliminar(javafx.event.ActionEvent)
+comment5.params=event
+comment5.target=void\ insertar(javafx.event.ActionEvent)
+comment6.params=event
+comment6.target=void\ busquedaRapida(javafx.scene.input.InputEvent)
+comment7.params=
+comment7.target=void\ initialize()
+comment8.params=p
+comment8.target=void\ insertarBD(Tripulante)
+comment9.params=p
+comment9.target=void\ actualizarBD(Tripulante)
+numComments=12
